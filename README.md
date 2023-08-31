@@ -2,7 +2,8 @@
 
 Дополнительные разметки для Medical Decathlon. Данные доступны по [ссылке](https://disk.yandex.ru/d/z1i8y5bnX4UD1A).
 
-![Обзорное изображение с 3D](resources/imgs/overview_ru.png)
+
+<img src="https://gitflic.ru/project/sechenovntc/mde_colon_segmentation/blob/raw?file=resources%2Fimgs%2Foverview_ru.png&">
 
 Создано отделами Сеченовского университета - [1](https://www.sechenov.ru/univers/structure/institute/institut-urologii-i-reproduktivnogo-zdorovya-cheloveka/tsentr-neyrosetevykh-tekhnologiy/?sphrase_id=2282387), [2](https://www.sechenov.ru/univers/structure/institute/institut-klinicheskoy-meditsiny/kafedry-klinicheskoy-mediciny-im-Sklificovskoro/fsurg2/), [3](https://www.sechenov.ru/virtual-tour/tour/content/a/ru/1203.php).  
 
@@ -16,7 +17,7 @@
 
 Extended masks for Medical Decathlon. Data available [here](https://disk.yandex.ru/d/z1i8y5bnX4UD1A)
 
-![Overview image with 3D](resources/imgs/overview_en.png)
+<img src="https://gitflic.ru/project/sechenovntc/mde_colon_segmentation/blob/raw?file=resources%2Fimgs%2Foverview_en.png&">
 
 Created by the departments of Sechenov university [1](https://www.sechenov.ru/univers/structure/institute/institut-urologii-i-reproduktivnogo-zdorovya-cheloveka/tsentr-neyrosetevykh-tekhnologiy/?sphrase_id=2282387), [2](https://www.sechenov.ru/univers/structure/institute/institut-klinicheskoy-meditsiny/kafedry-klinicheskoy-mediciny-im-Sklificovskoro/fsurg2/), [3](https://www.sechenov.ru/virtual-tour/tour/content/a/ru/1203.php).  
 
